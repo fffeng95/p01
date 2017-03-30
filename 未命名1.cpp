@@ -1,9 +1,12 @@
 #include<cstdio>
+
 void worka(){
 	printf("this is work A and changed");
 }
+
 void workb(){
-	
+	printf("this is work B");
+
 }
 int main(){
 
