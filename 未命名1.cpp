@@ -1,6 +1,6 @@
 #include<cstdio>
-void worka(){
-	printf("this is work A");
+void workb(){
+	printf("this is work B");
 }
 int main(){
 
