@@ -2,6 +2,9 @@
 void worka(){
 	printf("this is work A and changed");
 }
+void workb(){
+	
+}
 int main(){
 
 
